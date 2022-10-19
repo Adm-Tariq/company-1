@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+:root {
+    --maincolor: #6195ff;
+    --graycolor: #999;
+    --dark-graycolor: #555555;
+    --bg-gray: #f9f9f9;
+    --whitecolor: #fff;
+}
+
+body {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'montserrat', sans-serif;
+}
+
+button {
+    font-family: inherit;
+}
+
+a {
+    text-decoration: none;
+}
+
+.pd-y {
+    padding: 120px 0;
+}
+
+
+ul {
+    list-style: none;
+}
+li{
+    display: inline-block;
+}
